@@ -1,0 +1,4 @@
+lxml
+
+# Modules standard: tkinter, sqlite3, zipfile, xml
+# Python 3.8+
